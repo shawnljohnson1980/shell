@@ -1,0 +1,2 @@
+id,real_name,code_name,created_at,updated_at,team_id,is_good
+1,"Clark kent",Superman,now,now,"Justice League",True
